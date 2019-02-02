@@ -1,0 +1,10 @@
+.payment-details{
+  width: 1000px;
+  height: 500px;
+  background-color: white;
+  top: 55%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+}
